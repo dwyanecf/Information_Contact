@@ -1,0 +1,6 @@
+
+Chao	456PrestonRd	apt888	Warsaw	1992/04/3	cclyt@ccp.com	Ch	Y	848959666	626936	AL	false
+James	211GreatCreek	null	Plano	1993/03/3	NewYork	Hardon	H	121363996	456225	NY	false
+Cris	456PrestonRd	apt888	Poland	1995/09/4	greatguy@ccp.com	Chang	M	9994563255	775896	MA	false
+Davis	666PrestonRd	apt1025	Holand	2003/09/4	inter@us.edu	Wang	J	1395556224	450000	PA	false
+Connie	4701 Charles Pl	apt 1624	Shanghai	2016/08/7	cosine513@gmail.com	Zhang	Y	4693073993	75093	TX	true	
